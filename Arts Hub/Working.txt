@@ -1,0 +1,17 @@
+Note-This is a static and Non Responsive project for demonstration of HTML,CSS and JS. Don't Consider it as Finalized Project so you are free to Experiment on your own.
+
+Description-This is a Art Tools Website (ARTS HUB), It includes tools like:
+  a) Whiteboard-Here You can Create and Draw on this tool provided a color pallet and brush sizing tool with a eraser
+     Source- main.html (Note-Put Path for main.js and main.css in anchor tags)
+  b) 8-Bit Tool-It is a Tool which helps you to explore and create 8-bit images, it consist of rows and columns you can select the grid as per required and explore
+     Source- 8-bit.html (Note-Put Path for 8-bit.js and 8-bit.css in anchor tags)
+  c) Image Maker-Here You can create your images using different layer and images, there are already images and layers present in the tool you can create and edit as per 
+     your choice.
+     Source-reference.html(Note-Put Path for reference.js and reference.css in anchor tags as well as link the images present in 'img' folder)
+  d) Filter for picture- You can Import Pictures of your choice and put filters as well as download it as per your necessity.
+     Source-filter.html(Note-Put Path for filter.js and filter.css in anchor tags)
+  e) Information Tab(Incomplete)- This is a Tab to display information for your website like information of various Brushes as per given you can edit and add content as 
+     you like.
+     Source-brushes.html(Note-Put Path for brushes.js and brushes.css in anchor tags)
+
+HOME PAGE CAN BE ACCESSED BY THE TAB- web.html(Note-Put Path for web.js and web.css in anchor tags)
